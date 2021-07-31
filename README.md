@@ -6,7 +6,8 @@
 Using React, Node.js, Express & MongoDB I build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 
 ## How to use 
-![Uploading mern.gif…]()
+![mern](https://user-images.githubusercontent.com/69512372/127738279-5dd1a59c-0cce-40cd-8bba-b90270d6d63a.gif)
+
 
 ## Used Technologies
 
