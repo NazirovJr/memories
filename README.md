@@ -8,6 +8,8 @@ Using React, Node.js, Express & MongoDB I build a Full Stack MERN Application - 
 ## How to use 
 ![mern](https://user-images.githubusercontent.com/69512372/127738279-5dd1a59c-0cce-40cd-8bba-b90270d6d63a.gif)
 
+## Testing
+I use Jest in some projects for testing, but I haven't used Jest in this project. I mostly used a debugger for testing purposes in this project.
 
 ## Used Technologies
 
@@ -32,5 +34,3 @@ Using React, Node.js, Express & MongoDB I build a Full Stack MERN Application - 
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
-
-TODO: rename post message, refactor reducers, add some cool memories, maybe clickable tags, fix update functionality
