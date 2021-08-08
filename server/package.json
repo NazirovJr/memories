@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "Nazirov Ilhomjon <naziroffjr@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
